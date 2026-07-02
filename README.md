@@ -97,22 +97,6 @@ This project demonstrates strong skills in:
 
 ---
 
-## **Repository Structure**
-
-```
-/Python_Notebook/
-   marriage_analysis.ipynb
-
-/Project_Report/
-   FP_Report_with_Index.docx
-
-/Presentation/
-   GROUP_PROJECT.pptx
-
-README.md
-```
-
----
 
 ## **Contact**
 
